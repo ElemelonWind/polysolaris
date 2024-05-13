@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/polysolaris/static/css/main.4c8ea3f6.css",
+    "main.js": "/polysolaris/static/js/main.450a7b3f.js",
+    "static/js/453.50747af5.chunk.js": "/polysolaris/static/js/453.50747af5.chunk.js",
+    "index.html": "/polysolaris/index.html",
+    "main.4c8ea3f6.css.map": "/polysolaris/static/css/main.4c8ea3f6.css.map",
+    "main.450a7b3f.js.map": "/polysolaris/static/js/main.450a7b3f.js.map",
+    "453.50747af5.chunk.js.map": "/polysolaris/static/js/453.50747af5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c8ea3f6.css",
+    "static/js/main.450a7b3f.js"
+  ]
+}
